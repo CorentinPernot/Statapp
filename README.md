@@ -1,7 +1,18 @@
 # Statapp
 
-Il s'agit d'un projet de groupe de statistiques appliquées. 
-Ce projet réalisé par Sacha Apelbaum, Alexandre Partensky, Corentin Pla et Corentin Pernot est encadré par Ekimetrics et s'étend sur toute l'année scolaire. 
-L'objectif de ce projet est de prouver que la mutualisation des données de différents acteurs bancaires apporte une plus-value pour la détection de transactions frauduleuses. 
+Projet conducted during our second year at ENSAE. 
 
-Pour l'instant tout le code est disponible sur la branche "dev". 
+### Supervisors 
+- Gabriel Olympie https://www.linkedin.com/in/gabriel-olympie-ba8b6a103/
+- Miguel Omenaca Muro https://www.linkedin.com/in/miguel-omeñaca-muro-926049141/
+
+<!-- MAIN IDEA -->
+## Main idea
+This project aims to prove that the mutualization of data from different banking actors is an added value for the detection of fraudulent transactions. We propose an efficient method to aggregate databases into one, as well as efficient models for detection.
+
+<!-- CONTACT -->
+## Contact
+- Corentin Pernot corentin.pernot@ensae.fr
+- Sacha Apelbaum sacha.apelbaum@ensae.fr
+- Corentin Pla corentin.pla@ensae.fr
+- Alexandre Partensky alexandre.partensky@ensae.fr
