@@ -16,5 +16,3 @@ This project aims to prove that the mutualization of data from different banking
 - Sacha Apelbaum sacha.apelbaum@ensae.fr
 - Corentin Pla corentin.pla@ensae.fr
 - Alexandre Partensky alexandre.partensky@ensae.fr
-
-test
